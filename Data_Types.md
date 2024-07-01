@@ -5,5 +5,7 @@
 **Importance of DataTypes**
 
 --> Ensure data stored in efficient wat 
+
 --> Correct Ops on Data
+
 --> Prevents Errors and bugs
